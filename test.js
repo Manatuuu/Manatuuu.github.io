@@ -1,3 +1,1 @@
-//document.write("Hello!");
-
-adoiaydiuagwdiuwagdigi2hoh.a;djaoiuhediu
+document.write("Hello25日");
