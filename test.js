@@ -36,7 +36,7 @@ function Timer()
 	for (var i = 0;  i < 1;  i++  ) {
 		var rx = Math.floor(Math.random() * (ca.width - gCircle.width - 5)) + 5;
 		var ry = Math.floor(Math.random() * (ca.height - gCircle.height - 5)) + 5;
-		g.drawImage(gCircle, rx, ry, 100 , 50);
+		g.drawImage(gCircle, rx, ry, 100 , 100);
 	}
 	
     g.font = fontSize + "px 'ＭＳ ゴシック'";
